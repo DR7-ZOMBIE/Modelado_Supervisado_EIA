@@ -100,7 +100,7 @@ El proyecto ha sido desarrollado utilizando las siguientes herramientas y biblio
 
 ## 📅 Fecha de Entrega
 
-- **Mayo 3 de 2024**
+- **Septiembre 13 de 2024**
 
 ---
 
